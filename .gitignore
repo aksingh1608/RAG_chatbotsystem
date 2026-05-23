@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+rag_venv/
+.env/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Vector store
+faiss_index/
+
+# OS files
+.DS_Store
+Thumbs.db

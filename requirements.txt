@@ -1,0 +1,11 @@
+streamlit # Rapid UI framework for building web apps
+faiss-cpu # CPU implementation of FAISS
+sentence-transformers # Transformer-based sentence embeddings
+cohere # Cohere API client
+python-dotenv # Load environment variables from .env files
+pdfplumber # PDF text extraction library
+pymupdf # Python bindings for MuPDF
+numpy 
+pandas
+scikit-learn
+
